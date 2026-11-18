@@ -1,6 +1,8 @@
 # HawkIF
 
-O **HawkIF** é um sistema automatizado de gerenciamento de salas que utiliza sensores instalados em cada ambiente para monitorar condições e disponibilidade em tempo real. A plataforma permite consultar o status das salas, realizar agendamentos e gerenciar os recursos e equipamentos disponíveis em cada espaço. O projeto integra uma plataforma web a sensores de presença/movimento, com possibilidade de autenticação via **SUAP**.
+O **HawkIF** é um sistema automatizado de gerenciamento de salas que utiliza sensores instalados em cada ambiente para monitorar condições e disponibilidade em tempo real. 
+
+A plataforma permite consultar o status das salas, realizar agendamentos e gerenciar os recursos e equipamentos disponíveis em cada espaço. O projeto integra uma plataforma web a sensores de presença/movimento, com possibilidade de autenticação via **SUAP**.
 
 ## 📦 Repositórios
 
